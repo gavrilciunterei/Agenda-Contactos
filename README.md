@@ -1,4 +1,6 @@
 # Agenda-Contactos
+![Screenshot](https://i.imgur.com/8d8F78Q.png)
+
 ## Para cada contacto se debe incluir la siguiente información:
 
 * Identificador
